@@ -1,4 +1,4 @@
-module github.com/AleksanderGm/del2oblig
+module github.com/AleksanderGm/myquote
 
 go 1.17
 
