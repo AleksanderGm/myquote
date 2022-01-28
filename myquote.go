@@ -4,18 +4,18 @@ import (
 	"rsc.io/quote"
 )
 
-func Myquote() {
+func Myquote() string {
 	return quote.Glass()
 }
 
-func Memory() {
+func Memory() string {
 	return quote.Go()
 }
 
-func Hei() {
+func Hei() string {
 	return quote.Hello()
 }
 
-func Wisdown() {
+func Wisdown() string {
 	return quote.Opt()
 }
